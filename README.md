@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Jose 👋
+
+I am a student at the University of Illinois Chicago currently pursuing a major in computer science. I am passionate about video games, which is what most of my projects will be focused on! I program in C, and C++, but I am also learning Python in my spare time.
 
 <!--
 **jamart0305/jamart0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
